@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "426051274956",
+    "firebase_url": "https://todo-bdf05-default-rtdb.firebaseio.com",
+    "project_id": "todo-bdf05",
+    "storage_bucket": "todo-bdf05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426051274956:android:aea7b95101250eeed4da69",
+        "android_client_info": {
+          "package_name": "com.example.event_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426051274956-hncueh27su98v9vd4jv0b3sd90dcjsnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQbYoUOHTyIxeid-OwG047RIPmM3GLkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426051274956-hncueh27su98v9vd4jv0b3sd90dcjsnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426051274956:android:f7b5fa3160c54d3ad4da69",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426051274956-hncueh27su98v9vd4jv0b3sd90dcjsnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQbYoUOHTyIxeid-OwG047RIPmM3GLkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426051274956-hncueh27su98v9vd4jv0b3sd90dcjsnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426051274956:android:4d5333f64aa8cd2ed4da69",
+        "android_client_info": {
+          "package_name": "com.prashant.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426051274956-hncueh27su98v9vd4jv0b3sd90dcjsnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQbYoUOHTyIxeid-OwG047RIPmM3GLkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426051274956-hncueh27su98v9vd4jv0b3sd90dcjsnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
